@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>
+        Ejercicio de Introducción a HTML en OpenBootcamp
+    </title>
+    </head>
+    <body>
+        <div>
+            Este es mi primer comentario de dos líneas
+        </div>
+        <div>
+            Aprendiendo a documentar mi código con OpenBootcamp
+        </div>
+        <div>
+            <ul>
+                <li> <a href="https://www.youtube.com/watch?v=qP-7GNoDJ5c&list=LL&index=20">Nathan Evans - Wellerman (Sea Shanty)</a></li>
+                <li> <a href="https://www.youtube.com/watch?v=gZzt2hsqq9w&list=LL&index=16">Sea of Thieves Season 8 be like...</a></li>
+                <li> <a href="https://www.youtube.com/watch?v=uc5zaNnADP0&list=LL&index=24">Lucifer - Creep - Piano Cover</a></li>
+            </ul>
+        </div>
+    </body>
+</html>
