@@ -23,3 +23,11 @@
     </ol>
 </body> 
 </html>
+
+<!--  CSS  -->!
+#elemento-1{
+    color: red;
+}
+ul #elemento-1{
+    font-size: 20pt;
+}
